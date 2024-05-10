@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class Java_map {
+public class JavaMap {
     public static void main(String[] args) {
         // keyに英単語、valueに日本語を登録したMapインターフェースの変数translateToJpを定義しています。
         Map<String, String> translateToJp = new HashMap<>();
